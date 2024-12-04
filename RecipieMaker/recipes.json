@@ -1,0 +1,117 @@
+[
+    {
+      "name": "Vegetarian Lasagna",
+      "ingredients": ["lasagna noodles", "tomato sauce", "cheese", "zucchini"],
+      "rating": 4.8,
+      "instructions": "Layer lasagna noodles with tomato sauce, cheese, and sliced zucchini. Bake at 375°F for 45 minutes."
+    },
+    {
+      "name": "Vegetable Stir-Fry",
+      "ingredients": ["broccoli", "carrot", "soy sauce", "garlic", "bell pepper"],
+      "rating": 4.5,
+      "instructions": "Heat oil in a wok, stir-fry vegetables with soy sauce and garlic until tender-crisp. Serve with rice."
+    },
+    {
+      "name": "Spinach and Feta Quesadilla",
+      "ingredients": ["spinach", "feta cheese", "whole wheat tortilla", "olive oil"],
+      "rating": 4.7,
+      "instructions": "Spread spinach and feta on one half of a tortilla. Fold it over and grill in olive oil until golden brown."
+    },
+    {
+      "name": "Sweet Potato Curry",
+      "ingredients": ["sweet potato", "coconut milk", "curry powder", "onion", "garlic"],
+      "rating": 4.9,
+      "instructions": "Sauté onion and garlic, then add sweet potatoes, curry powder, and coconut milk. Simmer until sweet potatoes are tender."
+    },
+    {
+      "name": "Caprese Salad",
+      "ingredients": ["tomato", "mozzarella", "basil", "olive oil", "balsamic vinegar"],
+      "rating": 4.6,
+      "instructions": "Layer slices of tomato, mozzarella, and basil leaves. Drizzle with olive oil and balsamic vinegar."
+    },
+    {
+      "name": "Chickpea Salad Sandwich",
+      "ingredients": ["chickpeas", "mayo", "celery", "onion", "bread"],
+      "rating": 4.8,
+      "instructions": "Mash chickpeas, mix with mayo, celery, and onion. Spread on bread and serve."
+    },
+    {
+      "name": "Vegetarian Chili",
+      "ingredients": ["kidney beans", "black beans", "tomato", "onion", "chili powder"],
+      "rating": 4.7,
+      "instructions": "Sauté onion, then add beans, tomato, and chili powder. Simmer for 30 minutes."
+    },
+    {
+      "name": "Eggplant Parmesan",
+      "ingredients": ["eggplant", "breadcrumbs", "tomato sauce", "cheese", "olive oil"],
+      "rating": 4.9,
+      "instructions": "Bread and bake eggplant slices, then layer with tomato sauce and cheese. Bake again until bubbly."
+    },
+    {
+      "name": "Lentil Soup",
+      "ingredients": ["lentils", "carrot", "celery", "onion", "vegetable broth"],
+      "rating": 4.8,
+      "instructions": "Sauté vegetables, then add lentils and broth. Simmer until lentils are soft."
+    },
+    {
+      "name": "Stuffed Bell Peppers",
+      "ingredients": ["bell peppers", "rice", "black beans", "cheese", "tomato sauce"],
+      "rating": 4.8,
+      "instructions": "Stuff bell peppers with a mixture of rice, beans, and cheese. Top with tomato sauce and bake."
+    },
+    {
+      "name": "Mushroom Risotto",
+      "ingredients": ["mushrooms", "arborio rice", "vegetable broth", "onion", "parmesan cheese"],
+      "rating": 4.9,
+      "instructions": "Cook onion and mushrooms, then stir in rice. Gradually add broth, stirring until creamy. Top with parmesan."
+    },
+    {
+      "name": "Vegetable Tacos",
+      "ingredients": ["corn tortillas", "black beans", "avocado", "lettuce", "salsa"],
+      "rating": 4.7,
+      "instructions": "Fill tortillas with beans, avocado, lettuce, and salsa. Serve immediately."
+    },
+    {
+      "name": "Cauliflower Buffalo Wings",
+      "ingredients": ["cauliflower", "hot sauce", "flour", "breadcrumbs", "butter"],
+      "rating": 4.6,
+      "instructions": "Coat cauliflower florets in a batter, then breadcrumbs. Bake and toss with melted butter and hot sauce."
+    },
+    {
+      "name": "Vegetarian Sushi",
+      "ingredients": ["sushi rice", "nori sheets", "cucumber", "avocado", "carrot"],
+      "rating": 4.7,
+      "instructions": "Spread rice on nori, layer with vegetables, and roll tightly. Slice and serve with soy sauce."
+    },
+    {
+      "name": "Vegetable Pad Thai",
+      "ingredients": ["rice noodles", "peanuts", "tofu", "carrot", "pad thai sauce"],
+      "rating": 4.9,
+      "instructions": "Cook noodles, then stir-fry with tofu, carrot, and pad thai sauce. Top with peanuts."
+    },
+    {
+      "name": "Vegetarian Pizza",
+      "ingredients": ["pizza dough", "tomato sauce", "cheese", "bell peppers", "mushrooms"],
+      "rating": 4.8,
+      "instructions": "Top pizza dough with sauce, cheese, and vegetables. Bake at 400°F for 15 minutes."
+    },
+    {
+      "name": "Roasted Vegetable Quinoa Bowl",
+      "ingredients": ["quinoa", "zucchini", "bell peppers", "cherry tomatoes", "olive oil"],
+      "rating": 4.9,
+      "instructions": "Roast vegetables, then mix with cooked quinoa. Drizzle with olive oil and serve."
+    },
+    {
+      "name": "Pumpkin Soup",
+      "ingredients": ["pumpkin", "coconut milk", "onion", "vegetable broth", "curry powder"],
+      "rating": 4.7,
+      "instructions": "Cook pumpkin with onion and broth, then blend until smooth. Stir in coconut milk and curry powder."
+    },
+    {
+      "name": "Avocado Toast",
+      "ingredients": ["bread", "avocado", "lemon juice", "red pepper flakes"],
+      "rating": 4.5,
+      "instructions": "Spread mashed avocado on toasted bread. Drizzle with lemon juice and sprinkle with red pepper flakes."
+    }
+  ]
+  
